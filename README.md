@@ -16,7 +16,8 @@ This project analyzes Netflix content using Power BI.
 - CSV Dataset
 
 ## Dashboard Preview
-(Add screenshot here)
+<img width="1361" height="743" alt="Screenshot 2026-04-08 150746" src="https://github.com/user-attachments/assets/e4d16daf-fa55-47cc-8517-af10da4ab900" />
+
 
 ## Author
 Greeshma K
